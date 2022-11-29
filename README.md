@@ -1,2 +1,2 @@
-# Raspodijeljena-obrada-velike-koli-ine-podataka
+# Raspodijeljena-obrada-velike-kolicine-podataka
 Laboratorijske vježbe: Raspodijeljena obrada velike količine podataka
