@@ -1,0 +1,10 @@
+ROVKP 3LAB
+
+3. ZADATAK
+	
+	1. Hibridni preporučitelj: 134, 103, 111, 139, 148, 51, 129, 138, 117, 132.
+	2. Kvalitete: 
+		preporučitelj temeljen na sličnosti objekata = 4.793
+		preporučitelj temeljen na suradnji korisnika = 4.945
+		hibridni preporučitelj = 4.489
+	Hibridni preporučitelj ima najbolju kvalitetu.
