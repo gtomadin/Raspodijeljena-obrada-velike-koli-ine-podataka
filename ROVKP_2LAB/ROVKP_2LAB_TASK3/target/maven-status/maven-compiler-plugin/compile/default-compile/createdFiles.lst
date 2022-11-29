@@ -1,0 +1,14 @@
+com\mycompany\rovkp_lab2_task2\CellsPartitioner.class
+com\mycompany\rovkp_lab2_task1\FilterDriver.class
+com\mycompany\rovkp_lab2_task1\FilterMapper.class
+com\mycompany\rovkp_lab2_task2\DEBSRecordParser.class
+com\mycompany\rovkp_lab2_task1\DEBSRecordParser.class
+com\mycompany\rovkp_lab2_task3\FinalPartitioner.class
+com\mycompany\rovkp_lab2_task2\CellsReducer.class
+com\mycompany\rovkp_lab2_task2\CellWritable.class
+com\mycompany\rovkp_lab2_task3\FinalMapper.class
+com\mycompany\rovkp_lab2_task2\CellsMapper.class
+com\mycompany\rovkp_lab2_task2\CellsDriver.class
+com\mycompany\rovkp_lab2_task3\FinalDriver.class
+com\mycompany\rovkp_lab2_task3\FinalReducer.class
+com\mycompany\rovkp_lab2_task3\FilteredCells.class

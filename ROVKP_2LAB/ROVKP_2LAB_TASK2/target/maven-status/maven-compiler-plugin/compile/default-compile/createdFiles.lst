@@ -1,0 +1,6 @@
+com\mycompany\rovkp_lab2_task2\CellsReducer.class
+com\mycompany\rovkp_lab2_task2\CellWritable.class
+com\mycompany\rovkp_lab2_task2\CellsPartitioner.class
+com\mycompany\rovkp_lab2_task2\CellsMapper.class
+com\mycompany\rovkp_lab2_task2\CellsDriver.class
+com\mycompany\rovkp_lab2_task2\DEBSRecordParser.class

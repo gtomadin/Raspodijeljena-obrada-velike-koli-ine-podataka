@@ -1,0 +1,18 @@
+1. zadatak
+	1. Koristim funciju map.
+	2. Nastalo je 64 datoteke.
+	3. 39228 zapisa nije zadovoljilo kriterije.
+
+2. zadatak
+	1. Koristim fukcije map, reduce i partitioner.
+	2. Ključ na izlazu map funcije mi je IntWritable koja predstvalja id celije.
+	3. Vrijednost na izlazu map funcije mi je Text. 
+		Text obijekt predstvlja strukturu CellWritable koja 
+		sadrzi varijable Id celije i totalAmount vožnje iz koje je stvoren objekt.
+	
+3. zadatak
+	1. 
+	Najveći broj vožnji: ćelija 79.80 broj ostvarenih vožnji: 131810 ukupni prihod: 1504319.24
+	Najmanji broj vožnji: ćelija 88.55 broj ostvarenih vožnji: 1 ukupni prihod: 99.81
+	Obrada je trajala 66915 ms. Generirano je 3 map i 3 reduce zadatka:
+	2. Nemogu odgovoriti jer mi Parser ne radi za datoteku sorted_data_big.
