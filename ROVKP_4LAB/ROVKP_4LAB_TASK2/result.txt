@@ -1,0 +1,36 @@
+Novo
+1. 
+Female older then 40 : 492461
+
+2. 
+Month with most male under 50 : 1
+
+3. 
+Female with autopsy : 26070
+
+4. 
+Female between 50 and 65 by week day : 
+1,9719
+2,9865
+3,9919
+4,10157
+5,9821
+6,10101
+7,9853
+
+5. 
+Percentage of female between 50 and 65 by week day : 
+1, 0.1394385641969627
+2, 0.14374465847084347
+3, 0.14003024127276315
+4, 0.14637433436328973
+5, 0.13904411281309578
+6, 0.14660443100387877
+7, 0.1447636578791664
+
+6. 
+Male dead in accident : 34132
+
+7. 
+different ages : 116
+
