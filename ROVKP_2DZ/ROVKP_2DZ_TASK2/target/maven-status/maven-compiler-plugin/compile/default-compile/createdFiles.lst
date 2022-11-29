@@ -1,0 +1,5 @@
+com\mycompany\rovkp_2dz_task2\DEBSRecordParser.class
+com\mycompany\rovkp_2dz_task2\NumberPassengersAndLoncationReducer.class
+com\mycompany\rovkp_2dz_task2\NumberPassengersAndLoncationMapper.class
+com\mycompany\rovkp_2dz_task2\NumberPassengersAndLoncation.class
+com\mycompany\rovkp_2dz_task2\NumberPassengersAndLoncationPartitioner.class

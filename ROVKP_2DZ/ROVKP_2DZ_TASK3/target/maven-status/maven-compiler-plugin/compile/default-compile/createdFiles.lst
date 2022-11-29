@@ -1,0 +1,11 @@
+com\mycompany\rovkp_2dz_task1\Durations.class
+com\mycompany\rovkp_2dz_task2\DEBSRecordParser.class
+com\mycompany\rovkp_2dz_task3\MapReduceTask.class
+com\mycompany\rovkp_2dz_task1\Duration.class
+com\mycompany\rovkp_2dz_task1\DurationMapper.class
+com\mycompany\rovkp_2dz_task2\NumberPassengersAndLoncation.class
+com\mycompany\rovkp_2dz_task1\DurationReducer.class
+com\mycompany\rovkp_2dz_task2\NumberPassengersAndLoncationReducer.class
+com\mycompany\rovkp_2dz_task1\DEBSRecordParser.class
+com\mycompany\rovkp_2dz_task2\NumberPassengersAndLoncationMapper.class
+com\mycompany\rovkp_2dz_task2\NumberPassengersAndLoncationPartitioner.class
