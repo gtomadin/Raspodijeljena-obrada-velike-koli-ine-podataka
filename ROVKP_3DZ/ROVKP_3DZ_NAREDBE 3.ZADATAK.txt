@@ -1,0 +1,3 @@
+mahout recommenduserbased --usersFile /gtoma/rovkp/users.dat --output /gtoma/rovkp/output --
+similarityClassname SIMILARITY_PEARSON_CORRELATION --input /gtoma/rovkp/jester_ratings.csv --
+numRecommendations 10 --threshold 0.1
